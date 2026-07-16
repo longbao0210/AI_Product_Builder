@@ -1,0 +1,206 @@
+# Demo 完整目录
+
+> 成熟度：本批次建立 200 个稳定编号与实现契约；具体源码随对应课程模块逐批交付。
+
+| 编号 | Demo | 关联模块 | 技术栈 | 成熟度 |
+| --- | --- | --- | --- | --- |
+| 001 | 计算机基础：概念地图 | 01 | Markdown、Mermaid | 规划中 |
+| 002 | 计算机基础：最小可运行示例 | 01 | Python | 规划中 |
+| 003 | 计算机基础：故障诊断实验 | 01 | Python | 规划中 |
+| 004 | 计算机基础：工作流程演示 | 01 | Mermaid | 规划中 |
+| 005 | 计算机基础：综合练习项目 | 01 | Python、Markdown | 规划中 |
+| 006 | Python：概念地图 | 02 | Markdown、Mermaid | 规划中 |
+| 007 | Python：最小可运行示例 | 02 | Python | 规划中 |
+| 008 | Python：故障诊断实验 | 02 | Python | 规划中 |
+| 009 | Python：工作流程演示 | 02 | Mermaid | 规划中 |
+| 010 | Python：综合练习项目 | 02 | Python、Markdown | 规划中 |
+| 011 | Git：概念地图 | 03 | Markdown、Mermaid | 规划中 |
+| 012 | Git：最小可运行示例 | 03 | Python | 规划中 |
+| 013 | Git：故障诊断实验 | 03 | Python | 规划中 |
+| 014 | Git：工作流程演示 | 03 | Mermaid | 规划中 |
+| 015 | Git：综合练习项目 | 03 | Python、Markdown | 规划中 |
+| 016 | Linux：概念地图 | 04 | Markdown、Mermaid | 规划中 |
+| 017 | Linux：最小可运行示例 | 04 | Python | 规划中 |
+| 018 | Linux：故障诊断实验 | 04 | Python | 规划中 |
+| 019 | Linux：工作流程演示 | 04 | Mermaid | 规划中 |
+| 020 | Linux：综合练习项目 | 04 | Python、Markdown | 规划中 |
+| 021 | Web 基础：概念地图 | 05 | Markdown、Mermaid | 规划中 |
+| 022 | Web 基础：最小可运行示例 | 05 | Python | 规划中 |
+| 023 | Web 基础：故障诊断实验 | 05 | Python | 规划中 |
+| 024 | Web 基础：工作流程演示 | 05 | Mermaid | 规划中 |
+| 025 | Web 基础：综合练习项目 | 05 | Python、Markdown | 规划中 |
+| 026 | 人工智能基础：概念地图 | 06 | Markdown、Mermaid | 规划中 |
+| 027 | 人工智能基础：最小可运行示例 | 06 | Python | 规划中 |
+| 028 | 人工智能基础：故障诊断实验 | 06 | Python | 规划中 |
+| 029 | 人工智能基础：工作流程演示 | 06 | Mermaid | 规划中 |
+| 030 | 人工智能基础：综合练习项目 | 06 | Python、Markdown | 规划中 |
+| 031 | 大语言模型：概念地图 | 07 | Markdown、Mermaid | 规划中 |
+| 032 | 大语言模型：最小可运行示例 | 07 | Python | 规划中 |
+| 033 | 大语言模型：故障诊断实验 | 07 | Python | 规划中 |
+| 034 | 大语言模型：工作流程演示 | 07 | Mermaid | 规划中 |
+| 035 | 大语言模型：综合练习项目 | 07 | Python、Markdown | 规划中 |
+| 036 | 提示词工程：概念地图 | 08 | Markdown、Mermaid | 规划中 |
+| 037 | 提示词工程：最小可运行示例 | 08 | Python | 规划中 |
+| 038 | 提示词工程：故障诊断实验 | 08 | Python | 规划中 |
+| 039 | 提示词工程：工作流程演示 | 08 | Mermaid | 规划中 |
+| 040 | 提示词工程：综合练习项目 | 08 | Python、Markdown | 规划中 |
+| 041 | 嵌入：概念地图 | 09 | Markdown、Mermaid | 规划中 |
+| 042 | 嵌入：最小可运行示例 | 09 | Python | 规划中 |
+| 043 | 嵌入：故障诊断实验 | 09 | Python | 规划中 |
+| 044 | 嵌入：工作流程演示 | 09 | Mermaid | 规划中 |
+| 045 | 嵌入：综合练习项目 | 09 | Python、Markdown | 规划中 |
+| 046 | 检索增强生成：概念地图 | 10 | Markdown、Mermaid | 规划中 |
+| 047 | 检索增强生成：最小可运行示例 | 10 | Python | 规划中 |
+| 048 | 检索增强生成：故障诊断实验 | 10 | Python | 规划中 |
+| 049 | 检索增强生成：工作流程演示 | 10 | Mermaid | 规划中 |
+| 050 | 检索增强生成：综合练习项目 | 10 | Python、Markdown | 规划中 |
+| 051 | 记忆系统：概念地图 | 11 | Markdown、Mermaid | 规划中 |
+| 052 | 记忆系统：最小可运行示例 | 11 | Python | 规划中 |
+| 053 | 记忆系统：故障诊断实验 | 11 | Python | 规划中 |
+| 054 | 记忆系统：工作流程演示 | 11 | Mermaid | 规划中 |
+| 055 | 记忆系统：综合练习项目 | 11 | Python、Markdown | 规划中 |
+| 056 | 智能体：概念地图 | 12 | Markdown、Mermaid | 规划中 |
+| 057 | 智能体：最小可运行示例 | 12 | Python | 规划中 |
+| 058 | 智能体：故障诊断实验 | 12 | Python | 规划中 |
+| 059 | 智能体：工作流程演示 | 12 | Mermaid | 规划中 |
+| 060 | 智能体：综合练习项目 | 12 | Python、Markdown | 规划中 |
+| 061 | 模型上下文协议：概念地图 | 13 | Markdown、Mermaid | 规划中 |
+| 062 | 模型上下文协议：最小可运行示例 | 13 | Python | 规划中 |
+| 063 | 模型上下文协议：故障诊断实验 | 13 | Python | 规划中 |
+| 064 | 模型上下文协议：工作流程演示 | 13 | Mermaid | 规划中 |
+| 065 | 模型上下文协议：综合练习项目 | 13 | Python、Markdown | 规划中 |
+| 066 | 智能体间通信：概念地图 | 14 | Markdown、Mermaid | 规划中 |
+| 067 | 智能体间通信：最小可运行示例 | 14 | Python | 规划中 |
+| 068 | 智能体间通信：故障诊断实验 | 14 | Python | 规划中 |
+| 069 | 智能体间通信：工作流程演示 | 14 | Mermaid | 规划中 |
+| 070 | 智能体间通信：综合练习项目 | 14 | Python、Markdown | 规划中 |
+| 071 | 工作流：概念地图 | 15 | Markdown、Mermaid | 规划中 |
+| 072 | 工作流：最小可运行示例 | 15 | Python | 规划中 |
+| 073 | 工作流：故障诊断实验 | 15 | Python | 规划中 |
+| 074 | 工作流：工作流程演示 | 15 | Mermaid | 规划中 |
+| 075 | 工作流：综合练习项目 | 15 | Python、Markdown | 规划中 |
+| 076 | 工具调用：概念地图 | 16 | Markdown、Mermaid | 规划中 |
+| 077 | 工具调用：最小可运行示例 | 16 | Python | 规划中 |
+| 078 | 工具调用：故障诊断实验 | 16 | Python | 规划中 |
+| 079 | 工具调用：工作流程演示 | 16 | Mermaid | 规划中 |
+| 080 | 工具调用：综合练习项目 | 16 | Python、Markdown | 规划中 |
+| 081 | 规划与推理：概念地图 | 17 | Markdown、Mermaid | 规划中 |
+| 082 | 规划与推理：最小可运行示例 | 17 | Python | 规划中 |
+| 083 | 规划与推理：故障诊断实验 | 17 | Python | 规划中 |
+| 084 | 规划与推理：工作流程演示 | 17 | Mermaid | 规划中 |
+| 085 | 规划与推理：综合练习项目 | 17 | Python、Markdown | 规划中 |
+| 086 | 多智能体：概念地图 | 18 | Markdown、Mermaid | 规划中 |
+| 087 | 多智能体：最小可运行示例 | 18 | Python | 规划中 |
+| 088 | 多智能体：故障诊断实验 | 18 | Python | 规划中 |
+| 089 | 多智能体：工作流程演示 | 18 | Mermaid | 规划中 |
+| 090 | 多智能体：综合练习项目 | 18 | Python、Markdown | 规划中 |
+| 091 | 向量数据库：概念地图 | 19 | Markdown、Mermaid | 规划中 |
+| 092 | 向量数据库：最小可运行示例 | 19 | Python | 规划中 |
+| 093 | 向量数据库：故障诊断实验 | 19 | Python | 规划中 |
+| 094 | 向量数据库：工作流程演示 | 19 | Mermaid | 规划中 |
+| 095 | 向量数据库：综合练习项目 | 19 | Python、Markdown | 规划中 |
+| 096 | FastAPI：概念地图 | 20 | Markdown、Mermaid | 规划中 |
+| 097 | FastAPI：最小可运行示例 | 20 | Python | 规划中 |
+| 098 | FastAPI：故障诊断实验 | 20 | Python | 规划中 |
+| 099 | FastAPI：工作流程演示 | 20 | Mermaid | 规划中 |
+| 100 | FastAPI：综合练习项目 | 20 | Python、Markdown | 规划中 |
+| 101 | React：概念地图 | 21 | Markdown、Mermaid | 规划中 |
+| 102 | React：最小可运行示例 | 21 | Python | 规划中 |
+| 103 | React：故障诊断实验 | 21 | Python | 规划中 |
+| 104 | React：工作流程演示 | 21 | Mermaid | 规划中 |
+| 105 | React：综合练习项目 | 21 | Python、Markdown | 规划中 |
+| 106 | TypeScript：概念地图 | 22 | Markdown、Mermaid | 规划中 |
+| 107 | TypeScript：最小可运行示例 | 22 | Python | 规划中 |
+| 108 | TypeScript：故障诊断实验 | 22 | Python | 规划中 |
+| 109 | TypeScript：工作流程演示 | 22 | Mermaid | 规划中 |
+| 110 | TypeScript：综合练习项目 | 22 | Python、Markdown | 规划中 |
+| 111 | Tailwind CSS：概念地图 | 23 | Markdown、Mermaid | 规划中 |
+| 112 | Tailwind CSS：最小可运行示例 | 23 | Python | 规划中 |
+| 113 | Tailwind CSS：故障诊断实验 | 23 | Python | 规划中 |
+| 114 | Tailwind CSS：工作流程演示 | 23 | Mermaid | 规划中 |
+| 115 | Tailwind CSS：综合练习项目 | 23 | Python、Markdown | 规划中 |
+| 116 | Next.js：概念地图 | 24 | Markdown、Mermaid | 规划中 |
+| 117 | Next.js：最小可运行示例 | 24 | Python | 规划中 |
+| 118 | Next.js：故障诊断实验 | 24 | Python | 规划中 |
+| 119 | Next.js：工作流程演示 | 24 | Mermaid | 规划中 |
+| 120 | Next.js：综合练习项目 | 24 | Python、Markdown | 规划中 |
+| 121 | Taro：概念地图 | 25 | Markdown、Mermaid | 规划中 |
+| 122 | Taro：最小可运行示例 | 25 | Python | 规划中 |
+| 123 | Taro：故障诊断实验 | 25 | Python | 规划中 |
+| 124 | Taro：工作流程演示 | 25 | Mermaid | 规划中 |
+| 125 | Taro：综合练习项目 | 25 | Python、Markdown | 规划中 |
+| 126 | 微信小程序：概念地图 | 26 | Markdown、Mermaid | 规划中 |
+| 127 | 微信小程序：最小可运行示例 | 26 | Python | 规划中 |
+| 128 | 微信小程序：故障诊断实验 | 26 | Python | 规划中 |
+| 129 | 微信小程序：工作流程演示 | 26 | Mermaid | 规划中 |
+| 130 | 微信小程序：综合练习项目 | 26 | Python、Markdown | 规划中 |
+| 131 | Docker：概念地图 | 27 | Markdown、Mermaid | 规划中 |
+| 132 | Docker：最小可运行示例 | 27 | Python | 规划中 |
+| 133 | Docker：故障诊断实验 | 27 | Python | 规划中 |
+| 134 | Docker：工作流程演示 | 27 | Mermaid | 规划中 |
+| 135 | Docker：综合练习项目 | 27 | Python、Markdown | 规划中 |
+| 136 | 云计算：概念地图 | 28 | Markdown、Mermaid | 规划中 |
+| 137 | 云计算：最小可运行示例 | 28 | Python | 规划中 |
+| 138 | 云计算：故障诊断实验 | 28 | Python | 规划中 |
+| 139 | 云计算：工作流程演示 | 28 | Mermaid | 规划中 |
+| 140 | 云计算：综合练习项目 | 28 | Python、Markdown | 规划中 |
+| 141 | 部署：概念地图 | 29 | Markdown、Mermaid | 规划中 |
+| 142 | 部署：最小可运行示例 | 29 | Python | 规划中 |
+| 143 | 部署：故障诊断实验 | 29 | Python | 规划中 |
+| 144 | 部署：工作流程演示 | 29 | Mermaid | 规划中 |
+| 145 | 部署：综合练习项目 | 29 | Python、Markdown | 规划中 |
+| 146 | 可观测性：概念地图 | 30 | Markdown、Mermaid | 规划中 |
+| 147 | 可观测性：最小可运行示例 | 30 | Python | 规划中 |
+| 148 | 可观测性：故障诊断实验 | 30 | Python | 规划中 |
+| 149 | 可观测性：工作流程演示 | 30 | Mermaid | 规划中 |
+| 150 | 可观测性：综合练习项目 | 30 | Python、Markdown | 规划中 |
+| 151 | AI 安全：概念地图 | 31 | Markdown、Mermaid | 规划中 |
+| 152 | AI 安全：最小可运行示例 | 31 | Python | 规划中 |
+| 153 | AI 安全：故障诊断实验 | 31 | Python | 规划中 |
+| 154 | AI 安全：工作流程演示 | 31 | Mermaid | 规划中 |
+| 155 | AI 安全：综合练习项目 | 31 | Python、Markdown | 规划中 |
+| 156 | 测试：概念地图 | 32 | Markdown、Mermaid | 规划中 |
+| 157 | 测试：最小可运行示例 | 32 | Python | 规划中 |
+| 158 | 测试：故障诊断实验 | 32 | Python | 规划中 |
+| 159 | 测试：工作流程演示 | 32 | Mermaid | 规划中 |
+| 160 | 测试：综合练习项目 | 32 | Python、Markdown | 规划中 |
+| 161 | 产品：概念地图 | 33 | Markdown、Mermaid | 规划中 |
+| 162 | 产品：最小可运行示例 | 33 | Python | 规划中 |
+| 163 | 产品：故障诊断实验 | 33 | Python | 规划中 |
+| 164 | 产品：工作流程演示 | 33 | Mermaid | 规划中 |
+| 165 | 产品：综合练习项目 | 33 | Python、Markdown | 规划中 |
+| 166 | SaaS：概念地图 | 34 | Markdown、Mermaid | 规划中 |
+| 167 | SaaS：最小可运行示例 | 34 | Python | 规划中 |
+| 168 | SaaS：故障诊断实验 | 34 | Python | 规划中 |
+| 169 | SaaS：工作流程演示 | 34 | Mermaid | 规划中 |
+| 170 | SaaS：综合练习项目 | 34 | Python、Markdown | 规划中 |
+| 171 | SEO：概念地图 | 35 | Markdown、Mermaid | 规划中 |
+| 172 | SEO：最小可运行示例 | 35 | Python | 规划中 |
+| 173 | SEO：故障诊断实验 | 35 | Python | 规划中 |
+| 174 | SEO：工作流程演示 | 35 | Mermaid | 规划中 |
+| 175 | SEO：综合练习项目 | 35 | Python、Markdown | 规划中 |
+| 176 | 营销：概念地图 | 36 | Markdown、Mermaid | 规划中 |
+| 177 | 营销：最小可运行示例 | 36 | Python | 规划中 |
+| 178 | 营销：故障诊断实验 | 36 | Python | 规划中 |
+| 179 | 营销：工作流程演示 | 36 | Mermaid | 规划中 |
+| 180 | 营销：综合练习项目 | 36 | Python、Markdown | 规划中 |
+| 181 | 商业：概念地图 | 37 | Markdown、Mermaid | 规划中 |
+| 182 | 商业：最小可运行示例 | 37 | Python | 规划中 |
+| 183 | 商业：故障诊断实验 | 37 | Python | 规划中 |
+| 184 | 商业：工作流程演示 | 37 | Mermaid | 规划中 |
+| 185 | 商业：综合练习项目 | 37 | Python、Markdown | 规划中 |
+| 186 | 案例研究：概念地图 | 38 | Markdown、Mermaid | 规划中 |
+| 187 | 案例研究：最小可运行示例 | 38 | Python | 规划中 |
+| 188 | 案例研究：故障诊断实验 | 38 | Python | 规划中 |
+| 189 | 案例研究：工作流程演示 | 38 | Mermaid | 规划中 |
+| 190 | 案例研究：综合练习项目 | 38 | Python、Markdown | 规划中 |
+| 191 | 综合项目：概念地图 | 39 | Markdown、Mermaid | 规划中 |
+| 192 | 综合项目：最小可运行示例 | 39 | Python | 规划中 |
+| 193 | 综合项目：故障诊断实验 | 39 | Python | 规划中 |
+| 194 | 综合项目：工作流程演示 | 39 | Mermaid | 规划中 |
+| 195 | 综合项目：综合练习项目 | 39 | Python、Markdown | 规划中 |
+| 196 | 职业发展：概念地图 | 40 | Markdown、Mermaid | 规划中 |
+| 197 | 职业发展：最小可运行示例 | 40 | Python | 规划中 |
+| 198 | 职业发展：故障诊断实验 | 40 | Python | 规划中 |
+| 199 | 职业发展：工作流程演示 | 40 | Mermaid | 规划中 |
+| 200 | 职业发展：综合练习项目 | 40 | Python、Markdown | 规划中 |
