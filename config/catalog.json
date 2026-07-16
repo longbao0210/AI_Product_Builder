@@ -1,0 +1,2478 @@
+{
+  "modules": [
+    {
+      "id": "01",
+      "slug": "Computer-Fundamentals",
+      "title": "计算机基础",
+      "status": "已完成"
+    },
+    {
+      "id": "02",
+      "slug": "Python",
+      "title": "Python",
+      "status": "规划中"
+    },
+    {
+      "id": "03",
+      "slug": "Git",
+      "title": "Git",
+      "status": "规划中"
+    },
+    {
+      "id": "04",
+      "slug": "Linux",
+      "title": "Linux",
+      "status": "规划中"
+    },
+    {
+      "id": "05",
+      "slug": "Web",
+      "title": "Web 基础",
+      "status": "规划中"
+    },
+    {
+      "id": "06",
+      "slug": "AI-Fundamentals",
+      "title": "人工智能基础",
+      "status": "规划中"
+    },
+    {
+      "id": "07",
+      "slug": "LLM",
+      "title": "大语言模型",
+      "status": "规划中"
+    },
+    {
+      "id": "08",
+      "slug": "Prompt",
+      "title": "提示词工程",
+      "status": "规划中"
+    },
+    {
+      "id": "09",
+      "slug": "Embedding",
+      "title": "嵌入",
+      "status": "规划中"
+    },
+    {
+      "id": "10",
+      "slug": "RAG",
+      "title": "检索增强生成",
+      "status": "规划中"
+    },
+    {
+      "id": "11",
+      "slug": "Memory",
+      "title": "记忆系统",
+      "status": "规划中"
+    },
+    {
+      "id": "12",
+      "slug": "Agent",
+      "title": "智能体",
+      "status": "规划中"
+    },
+    {
+      "id": "13",
+      "slug": "MCP",
+      "title": "模型上下文协议",
+      "status": "规划中"
+    },
+    {
+      "id": "14",
+      "slug": "A2A",
+      "title": "智能体间通信",
+      "status": "规划中"
+    },
+    {
+      "id": "15",
+      "slug": "Workflow",
+      "title": "工作流",
+      "status": "规划中"
+    },
+    {
+      "id": "16",
+      "slug": "Tool-Calling",
+      "title": "工具调用",
+      "status": "规划中"
+    },
+    {
+      "id": "17",
+      "slug": "Planning",
+      "title": "规划与推理",
+      "status": "规划中"
+    },
+    {
+      "id": "18",
+      "slug": "Multi-Agent",
+      "title": "多智能体",
+      "status": "规划中"
+    },
+    {
+      "id": "19",
+      "slug": "Vector-Database",
+      "title": "向量数据库",
+      "status": "规划中"
+    },
+    {
+      "id": "20",
+      "slug": "FastAPI",
+      "title": "FastAPI",
+      "status": "规划中"
+    },
+    {
+      "id": "21",
+      "slug": "React",
+      "title": "React",
+      "status": "规划中"
+    },
+    {
+      "id": "22",
+      "slug": "TypeScript",
+      "title": "TypeScript",
+      "status": "规划中"
+    },
+    {
+      "id": "23",
+      "slug": "Tailwind",
+      "title": "Tailwind CSS",
+      "status": "规划中"
+    },
+    {
+      "id": "24",
+      "slug": "NextJS",
+      "title": "Next.js",
+      "status": "规划中"
+    },
+    {
+      "id": "25",
+      "slug": "Taro",
+      "title": "Taro",
+      "status": "规划中"
+    },
+    {
+      "id": "26",
+      "slug": "WeChat-MiniProgram",
+      "title": "微信小程序",
+      "status": "规划中"
+    },
+    {
+      "id": "27",
+      "slug": "Docker",
+      "title": "Docker",
+      "status": "规划中"
+    },
+    {
+      "id": "28",
+      "slug": "Cloud",
+      "title": "云计算",
+      "status": "规划中"
+    },
+    {
+      "id": "29",
+      "slug": "Deployment",
+      "title": "部署",
+      "status": "规划中"
+    },
+    {
+      "id": "30",
+      "slug": "Observability",
+      "title": "可观测性",
+      "status": "规划中"
+    },
+    {
+      "id": "31",
+      "slug": "AI-Security",
+      "title": "AI 安全",
+      "status": "规划中"
+    },
+    {
+      "id": "32",
+      "slug": "Testing",
+      "title": "测试",
+      "status": "规划中"
+    },
+    {
+      "id": "33",
+      "slug": "Product",
+      "title": "产品",
+      "status": "规划中"
+    },
+    {
+      "id": "34",
+      "slug": "SaaS",
+      "title": "SaaS",
+      "status": "规划中"
+    },
+    {
+      "id": "35",
+      "slug": "SEO",
+      "title": "SEO",
+      "status": "规划中"
+    },
+    {
+      "id": "36",
+      "slug": "Marketing",
+      "title": "营销",
+      "status": "规划中"
+    },
+    {
+      "id": "37",
+      "slug": "Business",
+      "title": "商业",
+      "status": "规划中"
+    },
+    {
+      "id": "38",
+      "slug": "Case-Studies",
+      "title": "案例研究",
+      "status": "规划中"
+    },
+    {
+      "id": "39",
+      "slug": "Projects",
+      "title": "综合项目",
+      "status": "规划中"
+    },
+    {
+      "id": "40",
+      "slug": "Career",
+      "title": "职业发展",
+      "status": "规划中"
+    }
+  ],
+  "projects": [
+    {
+      "id": "01",
+      "slug": "AI-Chat",
+      "title": "AI 对话",
+      "status": "规划中"
+    },
+    {
+      "id": "02",
+      "slug": "AI-Writing",
+      "title": "AI 写作",
+      "status": "规划中"
+    },
+    {
+      "id": "03",
+      "slug": "AI-Translation",
+      "title": "AI 翻译",
+      "status": "规划中"
+    },
+    {
+      "id": "04",
+      "slug": "AI-PDF",
+      "title": "AI PDF",
+      "status": "规划中"
+    },
+    {
+      "id": "05",
+      "slug": "AI-Excel",
+      "title": "AI Excel",
+      "status": "规划中"
+    },
+    {
+      "id": "06",
+      "slug": "AI-OCR",
+      "title": "AI OCR",
+      "status": "规划中"
+    },
+    {
+      "id": "07",
+      "slug": "AI-Browser",
+      "title": "AI 浏览器",
+      "status": "规划中"
+    },
+    {
+      "id": "08",
+      "slug": "AI-Search",
+      "title": "AI 搜索",
+      "status": "规划中"
+    },
+    {
+      "id": "09",
+      "slug": "AI-Coding",
+      "title": "AI 编程",
+      "status": "规划中"
+    },
+    {
+      "id": "10",
+      "slug": "AI-Meeting",
+      "title": "AI 会议",
+      "status": "规划中"
+    },
+    {
+      "id": "11",
+      "slug": "AI-Customer-Service",
+      "title": "AI 客服",
+      "status": "规划中"
+    },
+    {
+      "id": "12",
+      "slug": "AI-Email",
+      "title": "AI 邮件",
+      "status": "规划中"
+    },
+    {
+      "id": "13",
+      "slug": "AI-Research",
+      "title": "AI 研究",
+      "status": "规划中"
+    },
+    {
+      "id": "14",
+      "slug": "AI-Agent",
+      "title": "AI 智能体",
+      "status": "规划中"
+    },
+    {
+      "id": "15",
+      "slug": "AI-Workflow",
+      "title": "AI 工作流",
+      "status": "规划中"
+    },
+    {
+      "id": "16",
+      "slug": "AI-Knowledge-Base",
+      "title": "AI 知识库",
+      "status": "规划中"
+    },
+    {
+      "id": "17",
+      "slug": "AI-RAG",
+      "title": "AI RAG",
+      "status": "规划中"
+    },
+    {
+      "id": "18",
+      "slug": "AI-Voice",
+      "title": "AI 语音",
+      "status": "规划中"
+    },
+    {
+      "id": "19",
+      "slug": "AI-Vision",
+      "title": "AI 视觉",
+      "status": "规划中"
+    },
+    {
+      "id": "20",
+      "slug": "AI-Wealth-Assistant",
+      "title": "AI 财富助手",
+      "status": "规划中"
+    },
+    {
+      "id": "21",
+      "slug": "AI-Tools-Directory",
+      "title": "AI 工具目录",
+      "status": "规划中"
+    },
+    {
+      "id": "22",
+      "slug": "AI-Prompt-Library",
+      "title": "AI 提示词库",
+      "status": "规划中"
+    },
+    {
+      "id": "23",
+      "slug": "AI-Automation-Platform",
+      "title": "AI 自动化平台",
+      "status": "规划中"
+    },
+    {
+      "id": "24",
+      "slug": "AI-Agent-Platform",
+      "title": "AI 智能体平台",
+      "status": "规划中"
+    },
+    {
+      "id": "25",
+      "slug": "AI-SaaS",
+      "title": "AI SaaS",
+      "status": "规划中"
+    }
+  ],
+  "demos": [
+    {
+      "id": "001",
+      "slug": "computer-fundamentals-concept-map",
+      "title": "计算机基础：概念地图",
+      "module_id": "01",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "002",
+      "slug": "computer-fundamentals-minimal-demo",
+      "title": "计算机基础：最小可运行示例",
+      "module_id": "01",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "003",
+      "slug": "computer-fundamentals-debug-lab",
+      "title": "计算机基础：故障诊断实验",
+      "module_id": "01",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "004",
+      "slug": "computer-fundamentals-workflow-demo",
+      "title": "计算机基础：工作流程演示",
+      "module_id": "01",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "005",
+      "slug": "computer-fundamentals-practice-project",
+      "title": "计算机基础：综合练习项目",
+      "module_id": "01",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "006",
+      "slug": "python-concept-map",
+      "title": "Python：概念地图",
+      "module_id": "02",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "007",
+      "slug": "python-minimal-demo",
+      "title": "Python：最小可运行示例",
+      "module_id": "02",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "008",
+      "slug": "python-debug-lab",
+      "title": "Python：故障诊断实验",
+      "module_id": "02",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "009",
+      "slug": "python-workflow-demo",
+      "title": "Python：工作流程演示",
+      "module_id": "02",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "010",
+      "slug": "python-practice-project",
+      "title": "Python：综合练习项目",
+      "module_id": "02",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "011",
+      "slug": "git-concept-map",
+      "title": "Git：概念地图",
+      "module_id": "03",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "012",
+      "slug": "git-minimal-demo",
+      "title": "Git：最小可运行示例",
+      "module_id": "03",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "013",
+      "slug": "git-debug-lab",
+      "title": "Git：故障诊断实验",
+      "module_id": "03",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "014",
+      "slug": "git-workflow-demo",
+      "title": "Git：工作流程演示",
+      "module_id": "03",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "015",
+      "slug": "git-practice-project",
+      "title": "Git：综合练习项目",
+      "module_id": "03",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "016",
+      "slug": "linux-concept-map",
+      "title": "Linux：概念地图",
+      "module_id": "04",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "017",
+      "slug": "linux-minimal-demo",
+      "title": "Linux：最小可运行示例",
+      "module_id": "04",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "018",
+      "slug": "linux-debug-lab",
+      "title": "Linux：故障诊断实验",
+      "module_id": "04",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "019",
+      "slug": "linux-workflow-demo",
+      "title": "Linux：工作流程演示",
+      "module_id": "04",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "020",
+      "slug": "linux-practice-project",
+      "title": "Linux：综合练习项目",
+      "module_id": "04",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "021",
+      "slug": "web-concept-map",
+      "title": "Web 基础：概念地图",
+      "module_id": "05",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "022",
+      "slug": "web-minimal-demo",
+      "title": "Web 基础：最小可运行示例",
+      "module_id": "05",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "023",
+      "slug": "web-debug-lab",
+      "title": "Web 基础：故障诊断实验",
+      "module_id": "05",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "024",
+      "slug": "web-workflow-demo",
+      "title": "Web 基础：工作流程演示",
+      "module_id": "05",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "025",
+      "slug": "web-practice-project",
+      "title": "Web 基础：综合练习项目",
+      "module_id": "05",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "026",
+      "slug": "ai-fundamentals-concept-map",
+      "title": "人工智能基础：概念地图",
+      "module_id": "06",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "027",
+      "slug": "ai-fundamentals-minimal-demo",
+      "title": "人工智能基础：最小可运行示例",
+      "module_id": "06",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "028",
+      "slug": "ai-fundamentals-debug-lab",
+      "title": "人工智能基础：故障诊断实验",
+      "module_id": "06",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "029",
+      "slug": "ai-fundamentals-workflow-demo",
+      "title": "人工智能基础：工作流程演示",
+      "module_id": "06",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "030",
+      "slug": "ai-fundamentals-practice-project",
+      "title": "人工智能基础：综合练习项目",
+      "module_id": "06",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "031",
+      "slug": "llm-concept-map",
+      "title": "大语言模型：概念地图",
+      "module_id": "07",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "032",
+      "slug": "llm-minimal-demo",
+      "title": "大语言模型：最小可运行示例",
+      "module_id": "07",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "033",
+      "slug": "llm-debug-lab",
+      "title": "大语言模型：故障诊断实验",
+      "module_id": "07",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "034",
+      "slug": "llm-workflow-demo",
+      "title": "大语言模型：工作流程演示",
+      "module_id": "07",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "035",
+      "slug": "llm-practice-project",
+      "title": "大语言模型：综合练习项目",
+      "module_id": "07",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "036",
+      "slug": "prompt-concept-map",
+      "title": "提示词工程：概念地图",
+      "module_id": "08",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "037",
+      "slug": "prompt-minimal-demo",
+      "title": "提示词工程：最小可运行示例",
+      "module_id": "08",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "038",
+      "slug": "prompt-debug-lab",
+      "title": "提示词工程：故障诊断实验",
+      "module_id": "08",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "039",
+      "slug": "prompt-workflow-demo",
+      "title": "提示词工程：工作流程演示",
+      "module_id": "08",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "040",
+      "slug": "prompt-practice-project",
+      "title": "提示词工程：综合练习项目",
+      "module_id": "08",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "041",
+      "slug": "embedding-concept-map",
+      "title": "嵌入：概念地图",
+      "module_id": "09",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "042",
+      "slug": "embedding-minimal-demo",
+      "title": "嵌入：最小可运行示例",
+      "module_id": "09",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "043",
+      "slug": "embedding-debug-lab",
+      "title": "嵌入：故障诊断实验",
+      "module_id": "09",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "044",
+      "slug": "embedding-workflow-demo",
+      "title": "嵌入：工作流程演示",
+      "module_id": "09",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "045",
+      "slug": "embedding-practice-project",
+      "title": "嵌入：综合练习项目",
+      "module_id": "09",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "046",
+      "slug": "rag-concept-map",
+      "title": "检索增强生成：概念地图",
+      "module_id": "10",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "047",
+      "slug": "rag-minimal-demo",
+      "title": "检索增强生成：最小可运行示例",
+      "module_id": "10",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "048",
+      "slug": "rag-debug-lab",
+      "title": "检索增强生成：故障诊断实验",
+      "module_id": "10",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "049",
+      "slug": "rag-workflow-demo",
+      "title": "检索增强生成：工作流程演示",
+      "module_id": "10",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "050",
+      "slug": "rag-practice-project",
+      "title": "检索增强生成：综合练习项目",
+      "module_id": "10",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "051",
+      "slug": "memory-concept-map",
+      "title": "记忆系统：概念地图",
+      "module_id": "11",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "052",
+      "slug": "memory-minimal-demo",
+      "title": "记忆系统：最小可运行示例",
+      "module_id": "11",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "053",
+      "slug": "memory-debug-lab",
+      "title": "记忆系统：故障诊断实验",
+      "module_id": "11",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "054",
+      "slug": "memory-workflow-demo",
+      "title": "记忆系统：工作流程演示",
+      "module_id": "11",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "055",
+      "slug": "memory-practice-project",
+      "title": "记忆系统：综合练习项目",
+      "module_id": "11",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "056",
+      "slug": "agent-concept-map",
+      "title": "智能体：概念地图",
+      "module_id": "12",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "057",
+      "slug": "agent-minimal-demo",
+      "title": "智能体：最小可运行示例",
+      "module_id": "12",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "058",
+      "slug": "agent-debug-lab",
+      "title": "智能体：故障诊断实验",
+      "module_id": "12",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "059",
+      "slug": "agent-workflow-demo",
+      "title": "智能体：工作流程演示",
+      "module_id": "12",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "060",
+      "slug": "agent-practice-project",
+      "title": "智能体：综合练习项目",
+      "module_id": "12",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "061",
+      "slug": "mcp-concept-map",
+      "title": "模型上下文协议：概念地图",
+      "module_id": "13",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "062",
+      "slug": "mcp-minimal-demo",
+      "title": "模型上下文协议：最小可运行示例",
+      "module_id": "13",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "063",
+      "slug": "mcp-debug-lab",
+      "title": "模型上下文协议：故障诊断实验",
+      "module_id": "13",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "064",
+      "slug": "mcp-workflow-demo",
+      "title": "模型上下文协议：工作流程演示",
+      "module_id": "13",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "065",
+      "slug": "mcp-practice-project",
+      "title": "模型上下文协议：综合练习项目",
+      "module_id": "13",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "066",
+      "slug": "a2a-concept-map",
+      "title": "智能体间通信：概念地图",
+      "module_id": "14",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "067",
+      "slug": "a2a-minimal-demo",
+      "title": "智能体间通信：最小可运行示例",
+      "module_id": "14",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "068",
+      "slug": "a2a-debug-lab",
+      "title": "智能体间通信：故障诊断实验",
+      "module_id": "14",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "069",
+      "slug": "a2a-workflow-demo",
+      "title": "智能体间通信：工作流程演示",
+      "module_id": "14",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "070",
+      "slug": "a2a-practice-project",
+      "title": "智能体间通信：综合练习项目",
+      "module_id": "14",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "071",
+      "slug": "workflow-concept-map",
+      "title": "工作流：概念地图",
+      "module_id": "15",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "072",
+      "slug": "workflow-minimal-demo",
+      "title": "工作流：最小可运行示例",
+      "module_id": "15",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "073",
+      "slug": "workflow-debug-lab",
+      "title": "工作流：故障诊断实验",
+      "module_id": "15",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "074",
+      "slug": "workflow-workflow-demo",
+      "title": "工作流：工作流程演示",
+      "module_id": "15",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "075",
+      "slug": "workflow-practice-project",
+      "title": "工作流：综合练习项目",
+      "module_id": "15",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "076",
+      "slug": "tool-calling-concept-map",
+      "title": "工具调用：概念地图",
+      "module_id": "16",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "077",
+      "slug": "tool-calling-minimal-demo",
+      "title": "工具调用：最小可运行示例",
+      "module_id": "16",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "078",
+      "slug": "tool-calling-debug-lab",
+      "title": "工具调用：故障诊断实验",
+      "module_id": "16",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "079",
+      "slug": "tool-calling-workflow-demo",
+      "title": "工具调用：工作流程演示",
+      "module_id": "16",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "080",
+      "slug": "tool-calling-practice-project",
+      "title": "工具调用：综合练习项目",
+      "module_id": "16",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "081",
+      "slug": "planning-concept-map",
+      "title": "规划与推理：概念地图",
+      "module_id": "17",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "082",
+      "slug": "planning-minimal-demo",
+      "title": "规划与推理：最小可运行示例",
+      "module_id": "17",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "083",
+      "slug": "planning-debug-lab",
+      "title": "规划与推理：故障诊断实验",
+      "module_id": "17",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "084",
+      "slug": "planning-workflow-demo",
+      "title": "规划与推理：工作流程演示",
+      "module_id": "17",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "085",
+      "slug": "planning-practice-project",
+      "title": "规划与推理：综合练习项目",
+      "module_id": "17",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "086",
+      "slug": "multi-agent-concept-map",
+      "title": "多智能体：概念地图",
+      "module_id": "18",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "087",
+      "slug": "multi-agent-minimal-demo",
+      "title": "多智能体：最小可运行示例",
+      "module_id": "18",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "088",
+      "slug": "multi-agent-debug-lab",
+      "title": "多智能体：故障诊断实验",
+      "module_id": "18",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "089",
+      "slug": "multi-agent-workflow-demo",
+      "title": "多智能体：工作流程演示",
+      "module_id": "18",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "090",
+      "slug": "multi-agent-practice-project",
+      "title": "多智能体：综合练习项目",
+      "module_id": "18",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "091",
+      "slug": "vector-database-concept-map",
+      "title": "向量数据库：概念地图",
+      "module_id": "19",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "092",
+      "slug": "vector-database-minimal-demo",
+      "title": "向量数据库：最小可运行示例",
+      "module_id": "19",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "093",
+      "slug": "vector-database-debug-lab",
+      "title": "向量数据库：故障诊断实验",
+      "module_id": "19",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "094",
+      "slug": "vector-database-workflow-demo",
+      "title": "向量数据库：工作流程演示",
+      "module_id": "19",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "095",
+      "slug": "vector-database-practice-project",
+      "title": "向量数据库：综合练习项目",
+      "module_id": "19",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "096",
+      "slug": "fastapi-concept-map",
+      "title": "FastAPI：概念地图",
+      "module_id": "20",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "097",
+      "slug": "fastapi-minimal-demo",
+      "title": "FastAPI：最小可运行示例",
+      "module_id": "20",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "098",
+      "slug": "fastapi-debug-lab",
+      "title": "FastAPI：故障诊断实验",
+      "module_id": "20",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "099",
+      "slug": "fastapi-workflow-demo",
+      "title": "FastAPI：工作流程演示",
+      "module_id": "20",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "100",
+      "slug": "fastapi-practice-project",
+      "title": "FastAPI：综合练习项目",
+      "module_id": "20",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "101",
+      "slug": "react-concept-map",
+      "title": "React：概念地图",
+      "module_id": "21",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "102",
+      "slug": "react-minimal-demo",
+      "title": "React：最小可运行示例",
+      "module_id": "21",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "103",
+      "slug": "react-debug-lab",
+      "title": "React：故障诊断实验",
+      "module_id": "21",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "104",
+      "slug": "react-workflow-demo",
+      "title": "React：工作流程演示",
+      "module_id": "21",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "105",
+      "slug": "react-practice-project",
+      "title": "React：综合练习项目",
+      "module_id": "21",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "106",
+      "slug": "typescript-concept-map",
+      "title": "TypeScript：概念地图",
+      "module_id": "22",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "107",
+      "slug": "typescript-minimal-demo",
+      "title": "TypeScript：最小可运行示例",
+      "module_id": "22",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "108",
+      "slug": "typescript-debug-lab",
+      "title": "TypeScript：故障诊断实验",
+      "module_id": "22",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "109",
+      "slug": "typescript-workflow-demo",
+      "title": "TypeScript：工作流程演示",
+      "module_id": "22",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "110",
+      "slug": "typescript-practice-project",
+      "title": "TypeScript：综合练习项目",
+      "module_id": "22",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "111",
+      "slug": "tailwind-concept-map",
+      "title": "Tailwind CSS：概念地图",
+      "module_id": "23",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "112",
+      "slug": "tailwind-minimal-demo",
+      "title": "Tailwind CSS：最小可运行示例",
+      "module_id": "23",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "113",
+      "slug": "tailwind-debug-lab",
+      "title": "Tailwind CSS：故障诊断实验",
+      "module_id": "23",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "114",
+      "slug": "tailwind-workflow-demo",
+      "title": "Tailwind CSS：工作流程演示",
+      "module_id": "23",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "115",
+      "slug": "tailwind-practice-project",
+      "title": "Tailwind CSS：综合练习项目",
+      "module_id": "23",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "116",
+      "slug": "nextjs-concept-map",
+      "title": "Next.js：概念地图",
+      "module_id": "24",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "117",
+      "slug": "nextjs-minimal-demo",
+      "title": "Next.js：最小可运行示例",
+      "module_id": "24",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "118",
+      "slug": "nextjs-debug-lab",
+      "title": "Next.js：故障诊断实验",
+      "module_id": "24",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "119",
+      "slug": "nextjs-workflow-demo",
+      "title": "Next.js：工作流程演示",
+      "module_id": "24",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "120",
+      "slug": "nextjs-practice-project",
+      "title": "Next.js：综合练习项目",
+      "module_id": "24",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "121",
+      "slug": "taro-concept-map",
+      "title": "Taro：概念地图",
+      "module_id": "25",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "122",
+      "slug": "taro-minimal-demo",
+      "title": "Taro：最小可运行示例",
+      "module_id": "25",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "123",
+      "slug": "taro-debug-lab",
+      "title": "Taro：故障诊断实验",
+      "module_id": "25",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "124",
+      "slug": "taro-workflow-demo",
+      "title": "Taro：工作流程演示",
+      "module_id": "25",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "125",
+      "slug": "taro-practice-project",
+      "title": "Taro：综合练习项目",
+      "module_id": "25",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "126",
+      "slug": "wechat-miniprogram-concept-map",
+      "title": "微信小程序：概念地图",
+      "module_id": "26",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "127",
+      "slug": "wechat-miniprogram-minimal-demo",
+      "title": "微信小程序：最小可运行示例",
+      "module_id": "26",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "128",
+      "slug": "wechat-miniprogram-debug-lab",
+      "title": "微信小程序：故障诊断实验",
+      "module_id": "26",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "129",
+      "slug": "wechat-miniprogram-workflow-demo",
+      "title": "微信小程序：工作流程演示",
+      "module_id": "26",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "130",
+      "slug": "wechat-miniprogram-practice-project",
+      "title": "微信小程序：综合练习项目",
+      "module_id": "26",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "131",
+      "slug": "docker-concept-map",
+      "title": "Docker：概念地图",
+      "module_id": "27",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "132",
+      "slug": "docker-minimal-demo",
+      "title": "Docker：最小可运行示例",
+      "module_id": "27",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "133",
+      "slug": "docker-debug-lab",
+      "title": "Docker：故障诊断实验",
+      "module_id": "27",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "134",
+      "slug": "docker-workflow-demo",
+      "title": "Docker：工作流程演示",
+      "module_id": "27",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "135",
+      "slug": "docker-practice-project",
+      "title": "Docker：综合练习项目",
+      "module_id": "27",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "136",
+      "slug": "cloud-concept-map",
+      "title": "云计算：概念地图",
+      "module_id": "28",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "137",
+      "slug": "cloud-minimal-demo",
+      "title": "云计算：最小可运行示例",
+      "module_id": "28",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "138",
+      "slug": "cloud-debug-lab",
+      "title": "云计算：故障诊断实验",
+      "module_id": "28",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "139",
+      "slug": "cloud-workflow-demo",
+      "title": "云计算：工作流程演示",
+      "module_id": "28",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "140",
+      "slug": "cloud-practice-project",
+      "title": "云计算：综合练习项目",
+      "module_id": "28",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "141",
+      "slug": "deployment-concept-map",
+      "title": "部署：概念地图",
+      "module_id": "29",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "142",
+      "slug": "deployment-minimal-demo",
+      "title": "部署：最小可运行示例",
+      "module_id": "29",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "143",
+      "slug": "deployment-debug-lab",
+      "title": "部署：故障诊断实验",
+      "module_id": "29",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "144",
+      "slug": "deployment-workflow-demo",
+      "title": "部署：工作流程演示",
+      "module_id": "29",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "145",
+      "slug": "deployment-practice-project",
+      "title": "部署：综合练习项目",
+      "module_id": "29",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "146",
+      "slug": "observability-concept-map",
+      "title": "可观测性：概念地图",
+      "module_id": "30",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "147",
+      "slug": "observability-minimal-demo",
+      "title": "可观测性：最小可运行示例",
+      "module_id": "30",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "148",
+      "slug": "observability-debug-lab",
+      "title": "可观测性：故障诊断实验",
+      "module_id": "30",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "149",
+      "slug": "observability-workflow-demo",
+      "title": "可观测性：工作流程演示",
+      "module_id": "30",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "150",
+      "slug": "observability-practice-project",
+      "title": "可观测性：综合练习项目",
+      "module_id": "30",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "151",
+      "slug": "ai-security-concept-map",
+      "title": "AI 安全：概念地图",
+      "module_id": "31",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "152",
+      "slug": "ai-security-minimal-demo",
+      "title": "AI 安全：最小可运行示例",
+      "module_id": "31",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "153",
+      "slug": "ai-security-debug-lab",
+      "title": "AI 安全：故障诊断实验",
+      "module_id": "31",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "154",
+      "slug": "ai-security-workflow-demo",
+      "title": "AI 安全：工作流程演示",
+      "module_id": "31",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "155",
+      "slug": "ai-security-practice-project",
+      "title": "AI 安全：综合练习项目",
+      "module_id": "31",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "156",
+      "slug": "testing-concept-map",
+      "title": "测试：概念地图",
+      "module_id": "32",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "157",
+      "slug": "testing-minimal-demo",
+      "title": "测试：最小可运行示例",
+      "module_id": "32",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "158",
+      "slug": "testing-debug-lab",
+      "title": "测试：故障诊断实验",
+      "module_id": "32",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "159",
+      "slug": "testing-workflow-demo",
+      "title": "测试：工作流程演示",
+      "module_id": "32",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "160",
+      "slug": "testing-practice-project",
+      "title": "测试：综合练习项目",
+      "module_id": "32",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "161",
+      "slug": "product-concept-map",
+      "title": "产品：概念地图",
+      "module_id": "33",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "162",
+      "slug": "product-minimal-demo",
+      "title": "产品：最小可运行示例",
+      "module_id": "33",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "163",
+      "slug": "product-debug-lab",
+      "title": "产品：故障诊断实验",
+      "module_id": "33",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "164",
+      "slug": "product-workflow-demo",
+      "title": "产品：工作流程演示",
+      "module_id": "33",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "165",
+      "slug": "product-practice-project",
+      "title": "产品：综合练习项目",
+      "module_id": "33",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "166",
+      "slug": "saas-concept-map",
+      "title": "SaaS：概念地图",
+      "module_id": "34",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "167",
+      "slug": "saas-minimal-demo",
+      "title": "SaaS：最小可运行示例",
+      "module_id": "34",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "168",
+      "slug": "saas-debug-lab",
+      "title": "SaaS：故障诊断实验",
+      "module_id": "34",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "169",
+      "slug": "saas-workflow-demo",
+      "title": "SaaS：工作流程演示",
+      "module_id": "34",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "170",
+      "slug": "saas-practice-project",
+      "title": "SaaS：综合练习项目",
+      "module_id": "34",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "171",
+      "slug": "seo-concept-map",
+      "title": "SEO：概念地图",
+      "module_id": "35",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "172",
+      "slug": "seo-minimal-demo",
+      "title": "SEO：最小可运行示例",
+      "module_id": "35",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "173",
+      "slug": "seo-debug-lab",
+      "title": "SEO：故障诊断实验",
+      "module_id": "35",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "174",
+      "slug": "seo-workflow-demo",
+      "title": "SEO：工作流程演示",
+      "module_id": "35",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "175",
+      "slug": "seo-practice-project",
+      "title": "SEO：综合练习项目",
+      "module_id": "35",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "176",
+      "slug": "marketing-concept-map",
+      "title": "营销：概念地图",
+      "module_id": "36",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "177",
+      "slug": "marketing-minimal-demo",
+      "title": "营销：最小可运行示例",
+      "module_id": "36",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "178",
+      "slug": "marketing-debug-lab",
+      "title": "营销：故障诊断实验",
+      "module_id": "36",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "179",
+      "slug": "marketing-workflow-demo",
+      "title": "营销：工作流程演示",
+      "module_id": "36",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "180",
+      "slug": "marketing-practice-project",
+      "title": "营销：综合练习项目",
+      "module_id": "36",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "181",
+      "slug": "business-concept-map",
+      "title": "商业：概念地图",
+      "module_id": "37",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "182",
+      "slug": "business-minimal-demo",
+      "title": "商业：最小可运行示例",
+      "module_id": "37",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "183",
+      "slug": "business-debug-lab",
+      "title": "商业：故障诊断实验",
+      "module_id": "37",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "184",
+      "slug": "business-workflow-demo",
+      "title": "商业：工作流程演示",
+      "module_id": "37",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "185",
+      "slug": "business-practice-project",
+      "title": "商业：综合练习项目",
+      "module_id": "37",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "186",
+      "slug": "case-studies-concept-map",
+      "title": "案例研究：概念地图",
+      "module_id": "38",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "187",
+      "slug": "case-studies-minimal-demo",
+      "title": "案例研究：最小可运行示例",
+      "module_id": "38",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "188",
+      "slug": "case-studies-debug-lab",
+      "title": "案例研究：故障诊断实验",
+      "module_id": "38",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "189",
+      "slug": "case-studies-workflow-demo",
+      "title": "案例研究：工作流程演示",
+      "module_id": "38",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "190",
+      "slug": "case-studies-practice-project",
+      "title": "案例研究：综合练习项目",
+      "module_id": "38",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "191",
+      "slug": "projects-concept-map",
+      "title": "综合项目：概念地图",
+      "module_id": "39",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "192",
+      "slug": "projects-minimal-demo",
+      "title": "综合项目：最小可运行示例",
+      "module_id": "39",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "193",
+      "slug": "projects-debug-lab",
+      "title": "综合项目：故障诊断实验",
+      "module_id": "39",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "194",
+      "slug": "projects-workflow-demo",
+      "title": "综合项目：工作流程演示",
+      "module_id": "39",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "195",
+      "slug": "projects-practice-project",
+      "title": "综合项目：综合练习项目",
+      "module_id": "39",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "196",
+      "slug": "career-concept-map",
+      "title": "职业发展：概念地图",
+      "module_id": "40",
+      "stack": [
+        "Markdown",
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "197",
+      "slug": "career-minimal-demo",
+      "title": "职业发展：最小可运行示例",
+      "module_id": "40",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "198",
+      "slug": "career-debug-lab",
+      "title": "职业发展：故障诊断实验",
+      "module_id": "40",
+      "stack": [
+        "Python"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "199",
+      "slug": "career-workflow-demo",
+      "title": "职业发展：工作流程演示",
+      "module_id": "40",
+      "stack": [
+        "Mermaid"
+      ],
+      "status": "规划中"
+    },
+    {
+      "id": "200",
+      "slug": "career-practice-project",
+      "title": "职业发展：综合练习项目",
+      "module_id": "40",
+      "stack": [
+        "Python",
+        "Markdown"
+      ],
+      "status": "规划中"
+    }
+  ]
+}

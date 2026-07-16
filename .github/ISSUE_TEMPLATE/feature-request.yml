@@ -1,0 +1,19 @@
+name: 功能建议
+description: 建议新课程、Demo、项目或维护能力
+title: "[建议] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 要解决的问题
+      description: 请描述目标用户、场景和当前困难
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案
+      description: 请说明范围、交付物、验收与可能的替代方案
+    validations:
+      required: true
