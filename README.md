@@ -64,4 +64,4 @@ flowchart LR
 
 ## 如何贡献
 
-请先阅读 [全仓规范](standards/README.md)。贡献指南将在社区治理批次建立；贡献应说明模块、成熟度、验证命令和来源。
+请先阅读 [贡献指南](CONTRIBUTING.md) 和 [全仓规范](standards/README.md)。贡献应说明模块、成熟度、验证命令和来源。

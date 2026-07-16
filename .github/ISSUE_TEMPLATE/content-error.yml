@@ -1,0 +1,24 @@
+name: 内容错误
+description: 报告课程、链接、代码或术语问题
+title: "[内容错误] "
+labels: ["content"]
+body:
+  - type: input
+    id: path
+    attributes:
+      label: 文件路径
+      description: 请填写仓库中的相对路径
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题描述
+      description: 请说明实际内容、预期内容和影响
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 复现与证据
+      description: 请提供环境、命令、输出或权威来源

@@ -89,3 +89,39 @@ def test_learning_paths_have_exact_daily_entries() -> None:
         assert text.count("- 学习：") == days
         assert text.count("- 实践：") == days
         assert text.count("- 验收：") == days
+
+
+def test_governance_checklists_and_ci_are_complete() -> None:
+    required = (
+        "CONTRIBUTING.md",
+        "CODE_OF_CONDUCT.md",
+        "SECURITY.md",
+        ".github/PULL_REQUEST_TEMPLATE.md",
+        ".github/ISSUE_TEMPLATE/content-error.yml",
+        ".github/ISSUE_TEMPLATE/feature-request.yml",
+        ".github/workflows/quality.yml",
+        "checklists/README.md",
+        "checklists/learning-checklist.md",
+        "checklists/project-checklist.md",
+        "checklists/release-checklist.md",
+        "checklists/production-checklist.md",
+        "resources/README.md",
+        "prompts/README.md",
+        "assets/README.md",
+        "images/README.md",
+        "diagrams/README.md",
+    )
+    for relative in required:
+        assert (ROOT / relative).is_file(), f"缺少治理文件：{relative}"
+
+    contributing = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
+    for section in ("环境准备", "分支与提交", "内容审查", "代码审查", "本地验证"):
+        assert f"## {section}" in contributing
+
+    workflow = (ROOT / ".github" / "workflows" / "quality.yml").read_text(
+        encoding="utf-8"
+    )
+    for command in ("uv sync --all-groups --frozen", "uv run ruff check", "uv run pytest", "scripts/validate.py"):
+        assert command in workflow
+    assert "actions/checkout@v7" in workflow
+    assert "actions/setup-python@v6" in workflow

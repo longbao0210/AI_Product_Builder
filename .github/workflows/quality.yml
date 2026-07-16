@@ -1,0 +1,31 @@
+name: quality
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - name: Set up uv
+        uses: astral-sh/setup-uv@11f9893b081a58869d3b5fccaea48c9e9e46f990 # v8.3.2
+        with:
+          enable-cache: true
+      - name: Sync dependencies
+        run: uv sync --all-groups --frozen
+      - name: Lint
+        run: uv run ruff check scripts tests
+      - name: Test
+        run: uv run pytest -v
+      - name: Validate knowledge base
+        run: uv run python scripts/validate.py --root .
